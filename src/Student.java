@@ -10,30 +10,7 @@ public class Student implements Comparable<Student> {
         this.age = age;
         this.course = course;
     }
-/*
-    public String getName() {
-        return name;
-    }
 
-    public int getAge() {
-        return age;
-    }
-
-    public String getCourse() {
-        return course;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public void setCourse(String course) {
-        this.course = course;
-    } */
 
     public void display() {
         System.out.println("Name: " + name);
@@ -69,3 +46,33 @@ public class Student implements Comparable<Student> {
 /***
  * 4. Create a class named Student, which has name, age, course as data members, constructors and a display method.
  */
+
+
+
+
+
+
+/*
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public String getCourse() {
+        return course;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setCourse(String course) {
+        this.course = course;
+    } */
